@@ -19,7 +19,10 @@
 
 This result forms part of the empirical research programme associated with:
 
-**AI Governance Is Not Enough to Prove Responsibility: A Conceptual and Testable Architecture for Demonstrable Responsibility in AI Systems.** Canonical public research edition, version 1.0 (2026), Responsibility Infrastructure Publications. DOI: https://doi.org/10.5281/zenodo.21848724
+**AI Governance Is Not Enough to Prove Responsibility: A Conceptual and Testable Architecture for Demonstrable Responsibility in AI Systems.** Canonical public research edition, version 1.0 (2026), Responsibility Infrastructure Publications.
+
+**Canonical publication:** https://responsibilityinfrastructure.com/publications/ai-governance-is-not-enough  
+**Persistent DOI archive:** https://doi.org/10.5281/zenodo.21848724
 
 The canonical web record states the published finding and claims boundary. This result does not by itself establish RI conformance.
 
