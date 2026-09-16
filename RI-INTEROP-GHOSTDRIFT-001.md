@@ -28,6 +28,6 @@ The canonical web record states the published finding and claims boundary. This 
 
 ## Notice
 
-GhostDrift and ADIC are named only to identify the tested third-party source. No affiliation, endorsement, sponsorship, certification or permission is implied. Third-party rights remain with their respective owners.
+GhostDrift is named only to identify the tested third-party source. No affiliation, endorsement, sponsorship, certification or permission is implied. Third-party rights remain with their respective owners.
 
 © 2026 LA TOUCHE HOLDINGS LTD. Responsibility Infrastructure® is a registered trade mark of LA TOUCHE HOLDINGS LTD in the United Kingdom.
