@@ -4,6 +4,12 @@ Published bounded interoperability test records for Responsibility Infrastructur
 
 This repository is a public record surface. It contains only completed bounded test records approved for publication. Detailed research, unpublished targets, internal methodology, source repositories, development material and third-party Git implementation detail are not published here.
 
+## Publication boundary
+
+Every public interoperability record follows the same bounded publication pattern: identify the tested third-party system, publish the test class and bounded result, state the research context and claims boundary, and publish no third-party Git implementation detail.
+
+Do not publish third-party repository URLs, GitHub organisation or user handles, branches, commit hashes, file paths, package names, source-code excerpts, repository structure or other implementation-level Git detail. Those materials may be examined internally for research and testing, but they are not part of the public interoperability record.
+
 ## Published records
 
 - [Elydora — RI-INTEROP-ELYDORA-001](./RI-INTEROP-ELYDORA-001.md)
