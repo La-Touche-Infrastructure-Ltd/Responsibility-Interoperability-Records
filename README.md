@@ -20,9 +20,9 @@ For external-system interoperability test summaries, do not publish third-party 
 
 ## Separate independent-receiver research (not counted among the five external-system tests)
 
-- [RI-W3C-HIRE-EIGHT-001 — Eight-case hiring-agent authority and escalation](./RI-W3C-HIRE-EIGHT-001.md)
+- [Hiring-Agent Authority and Human Escalation — independent receiver research (frozen v0.1)](./RI-W3C-HIRE-EIGHT-001.md)
 
-This separate, consented synthetic reproducibility exercise documents Prasanna Bableshwar's non-blind independent receiver run and ten specification gaps. His **authored findings and run report are reproduced verbatim** with his written personal-capacity and non-endorsement conditions. The actual receiver code, fixtures and result files have **not** been authorised for public release and are not published in this repository. The reports reference their own internal file names as part of the original approved text, not to disclose the underlying implementation.
+The original record and file identifier remains `RI-W3C-HIRE-EIGHT-001 v0.1` for traceability. `RI-INTEROP-HIRE-001 v0.2` is the proposed successor protocol identifier only; it is not issued, tested or published. This separate, consented synthetic reproducibility exercise documents Prasanna Bableshwar's non-blind independent receiver run and ten specification gaps. His **authored findings and run report are reproduced verbatim** with his written personal-capacity and non-endorsement conditions. The actual receiver code, fixtures and result files have **not** been authorised for public release and are not published in this repository. The reports reference their own internal file names as part of the original approved text, not to disclose the underlying implementation.
 
 This record does **not** increase the five published external-system test count, establish correctness of the eight expected outcomes, demonstrate blind interoperability, or establish W3C endorsement or RI conformance. Attribution and author rights are preserved; no open-source licence is implied for independently authored reports.
 
