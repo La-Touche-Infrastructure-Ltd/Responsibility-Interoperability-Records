@@ -1,7 +1,8 @@
-# RI-W3C-HIRE-EIGHT-001 — Eight-case hiring-agent authority and escalation evidence
+# Hiring-Agent Authority and Human Escalation: Independent Receiver Research
 
 **Research type:** Bounded synthetic independent-receiver reproducibility exercise  
-**Protocol examined:** RI-W3C-HIRE-EIGHT-001 v0.1  
+**Original record identifier and protocol examined:** RI-W3C-HIRE-EIGHT-001 v0.1 (frozen; filename and original evidence references preserved)  
+**Proposed future identifier:** RI-INTEROP-HIRE-001 v0.2 (not issued, tested or published)  
 **Run and technical review:** 27 October 2026  
 **Publication status:** Authorised for publication: two verbatim reviewer documents and this scope/attribution index  
 **Canonical research programme:** https://responsibilityinfrastructure.com/research
